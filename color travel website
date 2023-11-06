@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Spin-off of "Project: Travel webpage"</title>
+    <style>
+        h1 {color: rgb(223, 266, 280);}
+        body{background-color: rgb(255,209,220);}
+        h2 {color: rgb(223,266,280);}
+        h3{color:rgb(253,296,310);}
+        p{color:rgb(195, 177, 225);}
+    </style>
+</head>
+<body>
+    <h1>Travel to the <em>Dominican Republic</em>!</h1>
+    
+    <img src="https://media.cnn.com/api/v1/images/stellar/prod/151006053208-dominican-republic-beauty-samana-playa-moron.jpg" alt="beach with lots of trees & blue ocean" width=450 length=450> <br>
+    
+    <h2>Places to visit:</h2>
+    <ul>
+        <li>
+            <h3>The 3 Eyes National Park</h3>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Lago_de_Azufre_December_2020.jpg" width=200 length=200>
+            <p>A stunning natural escape from the city, the Three Eyes National Park provides a clear view of the Taino underground caverns that were once utilized for ceremonies or retreat. The Taino used to refer to these three freshwater, iridescent blue lagoons as "eyes," because of their oval shapes. A winding staircase at the entrance leads to a labyrinth of caverns.</p> 
+ <li> <h3>The Amber Coast </h3>
+        <img src="https://provaltur.com/wp-content/uploads/2015/04/imagereader-41.jpg" width= 200  length= 200</li> <br>
+        <p>Because of its stunning beaches and abundance of entertaining resorts and tourist attractions, it's a highly sought-after destination for travelers. Amber Cove is one such resort.  There are many exciting things to do offered at Amber Cove, and admission is free!</p>
+        <li><h3> Ciguapa Falls </h3>
+        <img src="https://kayakriveradventures.com/wp-content/uploads/2013/02/Ciguapa-Falls.jpg" width=200 length= 200</li> <br>
+      <p> Increase your enjoyment of waterfalls by visiting Ciguapa, which offers a two-hour river adventure that includes six falls and twelve jumps reaching heights of up to 10 meters. Before starting this adventure in the sea, there is a stroll through dense jungle.</p>
+
+<h2> Fun things to do: </h2>
+</ul>
+<li><h3> Ziplining</h3> </li>
+<li> <h3>Swimming with Dolphins</h3> </li>
+<li> <h3> Kayaking </h3> </li>
+<li> <h3> Go on a cruise </h3> </li>
+<li> <h3>Go Hiking</h3></li>
+    </body>
+</html>
